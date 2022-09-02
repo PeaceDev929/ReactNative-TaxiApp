@@ -38,7 +38,7 @@
     "mongo-unit": "^3.2.0",
     "mongoose": "^5.8.1",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "nodemailer": "^6.4.17",
     "nyc": "^15.0.0",
     "path": "^0.12.7"
