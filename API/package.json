@@ -31,7 +31,7 @@
     "buffer": "^6.0.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.21.2",
     "joi": "^17.4.2",
     "jsonwebtoken": "^8.5.1",
